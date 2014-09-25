@@ -1,0 +1,5 @@
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationViewBinding/CSNotificationViewBinding/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationViewBinding/CSNotificationViewBinding/bin/Debug/CSNotificationViewBinding.dll.mdb
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationViewBinding/CSNotificationViewBinding/bin/Debug/CSNotificationViewBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationViewBinding/CSNotificationViewBinding/obj/Debug/CSNotificationViewBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/CSNotificationBinding/CSNotificationViewBinding/CSNotificationViewBinding/obj/Debug/CSNotificationViewBinding.dll.mdb
